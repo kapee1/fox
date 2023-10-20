@@ -13,5 +13,4 @@
 #
 ---
 include:
-  - board: nrf5340dk_nrf5340_cpuapp
-    shield: boardsource5x12
+  - board: foxtee
